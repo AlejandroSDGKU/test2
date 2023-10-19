@@ -1,0 +1,52 @@
+/*CSS code*/
+div{
+     margin-bottom: 20px; 
+}
+h3{
+  font-size: 20px;
+  color: black;
+  margin-bottom: 20px;
+}
+
+
+
+strong {
+  font-weight: bold;
+}
+span {
+  font-weight: normal;
+  margin-bottom: 20px;
+}
+
+footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 10px 0;
+}
+
+footer a {
+  color: white;
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+.boton-negro{
+  padding: 10px 20px;  
+  text-align: center;  
+  font-size: 10px;
+  color: white;
+  background-color: black;
+  margin-bottom: 20px;
+  border: none;
+}
+
+.boton-cafe{
+  padding: 10px 20px;  
+  text-align: center;  
+  font-size: 10px;
+  color: white;
+  background-color: brown;
+  margin-bottom: 20px;
+  border: none;
+}
